@@ -38,4 +38,4 @@ Hello, there!
 | Race-Game   | 2                   | 3                                      | 4                                                                                     |
 | DayLog      | 2                   | 3                                      | 4                                                                                     |
 | Hello, Word | 2                   | 3                                      | 4                                                                                     |
-| SAPI        | 24.10.14 ~ 24.11.19 | 개발자들을 위한 API 개발 통합 관리 시스템 | <a href="https://github.com/JYPJUN/SAPI"><img src="./img/SAPI.png" alt="FIFI" style="width:100px; height:50px"></a> |
+| SAPI        | 24.10.14 ~ 24.11.19 | 개발자들을 위한 API 개발 통합 관리 시스템 | <a href="https://github.com/JYPJUN/SAPI"><img src="./img/SAPI.png" alt="FIFI" style="width:60px; height:50px"></a> |

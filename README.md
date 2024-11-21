@@ -29,10 +29,11 @@ Hello, there!
 
 
 ## :page_with_curl: Portfolio
+
 | Title | Develop Period | Content | Link |
 |---|---|---|---|
-| FIFI | 24.05.15 ~ 24.05.24 | 웹 환경 기반 은행 상품 추천 서비스  | !()[https://github.com/JYPJUN/FIFI] |
-|Race-Game|2|3|4|
-|DayLog|2|3|4|
-|Hello, Word|2|3|4|
-|SAPI|2|3|4|
+| FIFI | 24.05.15 ~ 24.05.24 | 웹 환경 기반 은행 상품 추천 서비스 | <a href="https://github.com/JYPJUN/FIFI"><img src="./img/FIFI.png" alt="FIFI" style="width:100px;"></a> |
+| Race-Game   | 2                   | 3                                      | 4                                                                                     |
+| DayLog      | 2                   | 3                                      | 4                                                                                     |
+| Hello, Word | 2                   | 3                                      | 4                                                                                     |
+| SAPI        | 2                   | 3                                      | 4                                                                                     |

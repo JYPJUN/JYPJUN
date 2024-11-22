@@ -37,5 +37,5 @@ Hello, there!
 | FIFI | 24.05.15 ~ 24.05.24 | 웹 환경 기반 은행 상품 추천 서비스 | <a href="https://github.com/JYPJUN/FIFI"><img src="./img/FIFI.png" alt="FIFI" style="width:100px;  height:50px;"></a> |
 | Race-Game   | 2                   | 3                                      | 4                                                                                     |
 | DayLog      | 2                   | 3                                      | 4                                                                                     |
-| Hello, Word | 2                   | 3                                      | 4                                                                                     |
-| SAPI        | 24.10.14 ~ 24.11.19 | 개발자들을 위한 API 개발 통합 관리 시스템 | <a href="https://github.com/JYPJUN/SAPI"><img src="./img/SAPI.png" alt="FIFI" style="width:60px; height:50px"></a> |
+| Hello, Word | 24.08.19 ~ 24.10.11 | 영유아를 위한 단어 학습 앱 | <a href="https://github.com/JYPJUN/Hello-Word"><img src="./img/HelloWord.png" alt="FIFI" style="width:100px;  height:50px;"></a> |
+| SAPI        | 24.10.14 ~ 24.11.19 | 개발자들을 위한 API 개발 통합 관리 시스템 | <a href="https://github.com/JYPJUN/SAPI"><img src="./img/SAPI.png" alt="FIFI" style="width:100px; height:50px"></a> |

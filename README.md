@@ -32,10 +32,10 @@ Hello, there!
 
 ## :page_with_curl: Portfolio
 
-| Title | Develop Period | Content | Link |
+| Project | Title | Develop Period | Content |
 |---|---|---|---|
-| SAPI        | 24.10.14 ~ 24.11.19 | 개발자들을 위한 API 개발 통합 관리 시스템 | <a href="https://github.com/JYPJUN/SAPI"><img src="./img/SAPI.png" alt="FIFI" style="width:100px; height:50px"></a> |
-| Hello, Word | 24.08.19 ~ 24.10.11 | 영유아를 위한 단어 학습 앱 | <a href="https://github.com/JYPJUN/Hello-Word"><img src="./img/HelloWord.png" alt="FIFI" style="width:100px;  height:50px;"></a> |
-| DayLog      | 24.07.08 ~ 24.08.16 | 연인들이 영상통화 중 나눈 대화의 하이라이트를 핫클립으로 생성하고, 추억을 관리하는 앱 | <a href="https://github.com/JYPJUN/DayLog"><img src="./img/DayLog.png" alt="FIFI" style="width:50px; height:50px"></a> |
-| 자율주행 알고리즘 경진대회 | 24.05.24 ~ 24.07.04 | 자율주행 대회 우승 코드 회고록 (+ 작성 코드 고찰) | <a href="https://github.com/JYPJUN/Development-of-Autonomous-Driving-System"><img src="./img/Furiosa.png" alt="FIFI" style="width:100px; height:50px"></a> |
-| FIFI | 24.05.15 ~ 24.05.24 | 웹 환경 기반 은행 상품 추천 서비스 | <a href="https://github.com/JYPJUN/FIFI"><img src="./img/FIFI.png" alt="FIFI" style="width:100px;  height:50px;"></a> |
+| <a href="https://github.com/JYPJUN/SAPI"><img src="./img/SAPI.png" alt="FIFI" style="width:100px; height:50px"></a> | [SAPI](https://github.com/JYPJUN/SAPI) | 24.10.14 ~ 24.11.19 | 개발자들을 위한 API 개발 통합 관리 시스템 |
+| <a href="https://github.com/JYPJUN/Hello-Word"><img src="./img/HelloWord.png" alt="FIFI" style="width:100px; height:50px;"></a> | [Hello, Word](https://github.com/JYPJUN/Hello-Word) | 24.08.19 ~ 24.10.11 | 영유아를 위한 단어 학습 앱 |
+| <a href="https://github.com/JYPJUN/DayLog"><img src="./img/DayLog.png" alt="FIFI" style="width:50px; height:50px; padding: 0px 0px 0px 17px;"></a> | [DayLog](https://github.com/JYPJUN/DayLog) | 24.07.08 ~ 24.08.16 | 연인들이 영상통화 중 나눈 대화의 하이라이트를 핫클립으로 생성하고, 추억을 관리하는 앱 |
+| <a href="https://github.com/JYPJUN/Development-of-Autonomous-Driving-System"><img src="./img/Furiosa.png" alt="FIFI" style="width:100px; height:50px"></a> | [자율주행 알고리즘 경진대회](https://github.com/JYPJUN/Development-of-Autonomous-Driving-System) | 24.05.24 ~ 24.07.04 | 자율주행 대회 우승 코드 회고록 (+ 작성 코드 고찰) |
+| <a href="https://github.com/JYPJUN/FIFI"><img src="./img/FIFI.png" alt="FIFI" style="width:100px;  height:50px;"></a> | [FIFI](https://github.com/JYPJUN/FIFI) | 24.05.15 ~ 24.05.24 | 웹 환경 기반 은행 상품 추천 서비스 |

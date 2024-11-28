@@ -31,6 +31,8 @@ Hello, there!
 
 
 ## :page_with_curl: Portfolio
+[Download Portfolio](https://github.com/JYPJUN/JYPJUN/박준영_포트폴리오.pdf)
+
 
 | Project | Title | Develop Period | Content |
 |---|---|---|---|

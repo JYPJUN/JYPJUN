@@ -6,7 +6,7 @@ Hello, there!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psw9502)](https://solved.ac/psw9502/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYPJUN&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYPJUN)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
